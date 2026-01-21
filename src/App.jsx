@@ -1,15 +1,8 @@
-import './App.css'
+import "./App.css";
+import Body from "./components/Body";
 
 function App() {
- 
-
-  return (
-    <>
-      <div>
-        <p className='text-3xl font-bold text-orange-600'>Hello React</p>
-       </div>
-    </>
-  )
+  return <Body/>;
 }
 
-export default App
+export default App;

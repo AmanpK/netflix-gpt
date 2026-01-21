@@ -2,6 +2,8 @@
 
  - Creaet react app using vite (npm create vite@latest netflix-gpt -- --template react)
  - Configure Tailwind CSS using framework (vite) as per documentation
+ - Built Header
+ - Built Login Form
 
 
 # Features
